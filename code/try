@@ -1,0 +1,10 @@
+The test statistic was computed using the formula:
+\begin{equation}
+testStat= \frac{manMean-autoMean}{\sqrt{\frac{manSD^2}{n_m}+\frac{autoSD^2}{n_a}}}
+\end{equation}
+
+
+The degrees of freedom were computed with the formula: 
+\begin{equation}
+df= (n_m + n_a)-2
+\end{equation}
